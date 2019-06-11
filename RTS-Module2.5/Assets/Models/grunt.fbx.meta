@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: aea64248473ffd141a634848240d9492
+timeCreated: 1511046949
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Back
+    100004: Camera
+    100006: //RootNode
+    100008: Head
+    100010: Head 1
+    100012: Head_end
+    100014: L Arm
+    100016: L Foot
+    100018: L Foot_end
+    100020: L Forearm
+    100022: L Forearm_end
+    100024: L Hip
+    100026: L Leg
+    100028: L Shoulder
+    100030: L Thigh
+    100032: L_Arm
+    100034: L_Foot
+    100036: L_Forearm
+    100038: L_Leg
+    100040: L_Shoulder
+    100042: L_Thigh
+    100044: Lamp
+    100046: Neck
+    100048: Neck 1
+    100050: R Arm
+    100052: R Foot
+    100054: R Foot_end
+    100056: R Forearm
+    100058: R Forearm_end
+    100060: R Hip
+    100062: R Leg
+    100064: R Shoulder
+    100066: R Thigh
+    100068: R_Arm
+    100070: R_Foot
+    100072: R_Forearm
+    100074: R_Leg
+    100076: R_Shoulder
+    100078: R_Thigh
+    100080: Torso
+    400000: Armature
+    400002: Back
+    400004: Camera
+    400006: //RootNode
+    400008: Head
+    400010: Head 1
+    400012: Head_end
+    400014: L Arm
+    400016: L Foot
+    400018: L Foot_end
+    400020: L Forearm
+    400022: L Forearm_end
+    400024: L Hip
+    400026: L Leg
+    400028: L Shoulder
+    400030: L Thigh
+    400032: L_Arm
+    400034: L_Foot
+    400036: L_Forearm
+    400038: L_Leg
+    400040: L_Shoulder
+    400042: L_Thigh
+    400044: Lamp
+    400046: Neck
+    400048: Neck 1
+    400050: R Arm
+    400052: R Foot
+    400054: R Foot_end
+    400056: R Forearm
+    400058: R Forearm_end
+    400060: R Hip
+    400062: R Leg
+    400064: R Shoulder
+    400066: R Thigh
+    400068: R_Arm
+    400070: R_Foot
+    400072: R_Forearm
+    400074: R_Leg
+    400076: R_Shoulder
+    400078: R_Thigh
+    400080: Torso
+    2000000: Camera
+    4300000: R_Foot
+    4300002: L_Thigh
+    4300004: R_Shoulder
+    4300006: Torso
+    4300008: Head
+    4300010: R_Arm
+    4300012: L_Arm
+    4300014: L_Shoulder
+    4300016: R_Forearm
+    4300018: L_Forearm
+    4300020: Neck
+    4300022: R_Thigh
+    4300024: R_Leg
+    4300026: L_Leg
+    4300028: L_Foot
+    7400000: Armature|Run
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Head
+    13700002: L_Arm
+    13700004: L_Foot
+    13700006: L_Forearm
+    13700008: L_Leg
+    13700010: L_Shoulder
+    13700012: L_Thigh
+    13700014: Neck
+    13700016: R_Arm
+    13700018: R_Foot
+    13700020: R_Forearm
+    13700022: R_Leg
+    13700024: R_Shoulder
+    13700026: R_Thigh
+    13700028: Torso
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: db12d1c34c8504d41870cfaf7c460eeb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
